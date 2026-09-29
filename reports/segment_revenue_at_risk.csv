@@ -1,0 +1,5 @@
+segment_name,customers,churn_rate,monthly_revenue,churned_monthly_revenue,pct_revenue_lost
+Loyal high-value bundle,1743,0.11,158336.1,19753.35,0.125
+Loyal phone-only low-bill,1079,0.01,27518.6,412.3,0.015
+Mid-tenure high-bill month-to-month,2115,0.38,172792.9,71567.1,0.414
+New low-spend month-to-month,2106,0.4,97469.0,47398.1,0.486

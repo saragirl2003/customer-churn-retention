@@ -1,0 +1,5 @@
+segment,customers,avg_tenure,avg_monthly,avg_addons,pct_month_to_month,pct_no_internet,churn_rate
+0,2115,25.7,81.7,2.58,0.82,0.0,0.38
+1,1743,61.67,90.84,4.25,0.11,0.0,0.11
+2,2106,8.13,46.28,0.53,0.93,0.3,0.4
+3,1079,45.44,25.5,0.34,0.0,0.83,0.01
