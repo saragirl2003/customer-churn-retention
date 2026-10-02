@@ -1,0 +1,16 @@
+feature,mean_abs_shap
+contract_Month-to-month,0.50618577
+tenure_months,0.49690616
+dependents_No,0.46869522
+contract_Two year,0.27106047
+internet_service_Fiber optic,0.2616425
+total_charges,0.20363683
+charge_vs_contract_avg,0.17225623
+monthly_charges,0.16411123
+charge_per_service,0.1216913
+dependents_Yes,0.12056886
+partner_No,0.115963586
+internet_service_No,0.10111854
+payment_method_Electronic check,0.09793632
+mtm_echeck_flag,0.09754322
+paperless_billing_No,0.088178724
